@@ -1,1 +1,2 @@
-
+google-genai==2.12.1
+gradio==6.30.0
