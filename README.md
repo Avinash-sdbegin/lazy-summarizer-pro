@@ -67,12 +67,11 @@ A useful summary should identify the report and meeting as tentative, avoid inve
 
 ## 📸 Screenshots
 
-Add your screenshots to a `screenshots/` folder in this repository, then use the matching filenames below. These image links will render after the files are uploaded.
-
-```markdown
+### Dashboard
 ![LazySummarizer Pro dashboard](screenshots/dashboard.png)
+
+### Summary Results
 ![LazySummarizer Pro summary results](screenshots/summary-results.png)
-```
 
 ## 🛣️ Future improvements
 
