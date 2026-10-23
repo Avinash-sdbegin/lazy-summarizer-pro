@@ -90,4 +90,4 @@ Required DEV Challenge tags: `#devchallenge` and `#hf26challenge`.
 
 ## 📄 License
 
-Add a license file to the repository before explicitly granting others permission to reuse, modify, or distribute this project.
+This project is licensed under the MIT License. See [LICENSE](LICENSE).
